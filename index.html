@@ -97,7 +97,6 @@
         }
         function audioEnded(e) {
             if (e.propertyName !== 'onended') return;
-            console.log(e.target)
             e.target.parent().classList.remove('playing');
         }
         new Vue({
