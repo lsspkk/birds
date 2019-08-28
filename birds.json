@@ -1,0 +1,1532 @@
+[
+  {
+    "image": "images/200px/harmaahaikara.jpg",
+    "name": "Harmaahaikara",
+    "audio": "audio/harmaahaikara.mp3",
+    "category": "Haikarat"
+  },
+  {
+    "image": "images/200px/kaulushaikara.jpg",
+    "name": "Kaulushaikara",
+    "audio": "audio/kaulushaikara.mp3",
+    "category": "Haikarat"
+  },
+  {
+    "image": "images/200px/hippiainen.jpg",
+    "name": "Hippiäinen",
+    "audio": "audio/hippiainen.mp3",
+    "category": "Hippiäiset"
+  },
+  {
+    "image": "images/200px/heinakurppa.jpg",
+    "name": "Heinäkurppa",
+    "audio": "audio/heinakurppa.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/jankakurppa.jpg",
+    "name": "Jänkäkurppa",
+    "audio": "audio/jankakurppa.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/jankasirriainen.jpg",
+    "name": "Jänkäsirriäinen",
+    "audio": "audio/jankasirriainen.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/kapustarinta.jpg",
+    "name": "Kapustarinta",
+    "audio": "audio/kapustarinta.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/karikukko.jpg",
+    "name": "Karikukko",
+    "audio": "audio/karikukko.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/kerakurmitsa.jpg",
+    "name": "Keräkurmitsa",
+    "audio": "audio/kerakurmitsa.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/kuovi.jpg",
+    "name": "Kuovi",
+    "audio": "audio/kuovi.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/kuovisirri.jpg",
+    "name": "Kuovisirri",
+    "audio": "audio/kuovisirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/lapinsirri.jpg",
+    "name": "Lapinsirri",
+    "audio": "audio/lapinsirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/lehtokurppa.jpg",
+    "name": "Lehtokurppa",
+    "audio": "audio/lehtokurppa.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/liro.jpg",
+    "name": "Liro",
+    "audio": "audio/liro.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/meriharakka.jpg",
+    "name": "Meriharakka",
+    "audio": "audio/meriharakka.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/merisirri.jpg",
+    "name": "Merisirri",
+    "audio": "audio/merisirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/metsaviklo.jpg",
+    "name": "Metsäviklo",
+    "audio": "audio/metsaviklo.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/mustapyrstoekuiri.jpg",
+    "name": "Mustapyrstökuiri",
+    "audio": "audio/mustapyrstoekuiri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/mustaviklo.jpg",
+    "name": "Mustaviklo",
+    "audio": "audio/mustaviklo.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/pikkukuovi.jpg",
+    "name": "Pikkukuovi",
+    "audio": "audio/pikkukuovi.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/pikkusirri.jpg",
+    "name": "Pikkusirri",
+    "audio": "audio/pikkusirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/pikkutylli.jpg",
+    "name": "Pikkutylli",
+    "audio": "audio/pikkutylli.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/pulmussirri.jpg",
+    "name": "Pulmussirri",
+    "audio": "audio/pulmussirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/punajalkaviklo.jpg",
+    "name": "Punajalkaviklo",
+    "audio": "audio/punajalkaviklo.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/punakuiri.jpg",
+    "name": "Punakuiri",
+    "audio": "audio/punakuiri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/rantasipi.jpg",
+    "name": "Rantasipi",
+    "audio": "audio/rantasipi.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/suokukko.jpg",
+    "name": "Suokukko",
+    "audio": "audio/suokukko.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/suosirri.jpg",
+    "name": "Suosirri",
+    "audio": "audio/suosirri.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/taivaanvuohi.jpg",
+    "name": "Taivaanvuohi",
+    "audio": "audio/taivaanvuohi.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/tylli.jpg",
+    "name": "Tylli",
+    "audio": "audio/tylli.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/toeyhtoehyyppa.jpg",
+    "name": "Töyhtöhyyppä",
+    "audio": "audio/toeyhtoehyyppa.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/valkoviklo.jpg",
+    "name": "Valkoviklo",
+    "audio": "audio/valkoviklo.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/vesipaasky.jpg",
+    "name": "Vesipääsky",
+    "audio": "audio/vesipaasky.mp3",
+    "category": "Kahlaajat"
+  },
+  {
+    "image": "images/200px/fasaani.jpg",
+    "name": "Fasaani",
+    "audio": "audio/fasaani.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/metso.jpg",
+    "name": "Metso",
+    "audio": "audio/metso.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/peltopyy.jpg",
+    "name": "Peltopyy",
+    "audio": "audio/peltopyy.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/riekko.jpg",
+    "name": "Riekko",
+    "audio": "audio/riekko.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/teeri.jpg",
+    "name": "Teeri",
+    "audio": "audio/teeri.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/viiriainen.jpg",
+    "name": "Viiriäinen",
+    "audio": "audio/viiriainen.mp3",
+    "category": "Kanalinnut"
+  },
+  {
+    "image": "images/200px/kehraaja.jpg",
+    "name": "Kehrääjä",
+    "audio": "audio/kehraaja.mp3",
+    "category": "Kehrääjät"
+  },
+  {
+    "image": "images/200px/hernekerttu.jpg",
+    "name": "Hernekerttu",
+    "audio": "audio/hernekerttu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/hippiaisuunilintu.jpg",
+    "name": "Hippiäisuunilintu",
+    "audio": "audio/hippiaisuunilintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/kirjokerttu.jpg",
+    "name": "Kirjokerttu",
+    "audio": "audio/kirjokerttu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/kultarinta.jpg",
+    "name": "Kultarinta",
+    "audio": "audio/kultarinta.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/lapinuunilintu.jpg",
+    "name": "Lapinuunilintu",
+    "audio": "audio/lapinuunilintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/lehtokerttu.jpg",
+    "name": "Lehtokerttu",
+    "audio": "audio/lehtokerttu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/luhtakerttunen.jpg",
+    "name": "Luhtakerttunen",
+    "audio": "audio/luhtakerttunen.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/mustapaakerttu.jpg",
+    "name": "Mustapääkerttu",
+    "audio": "audio/mustapaakerttu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/pajulintu.jpg",
+    "name": "Pajulintu",
+    "audio": "audio/pajulintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/pensaskerttu.jpg",
+    "name": "Pensaskerttu",
+    "audio": "audio/pensaskerttu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/pensassirkkalintu.jpg",
+    "name": "Pensassirkkalintu",
+    "audio": "audio/pensassirkkalintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/rastaskerttunen.jpg",
+    "name": "Rastaskerttunen",
+    "audio": "audio/rastaskerttunen.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/ruokokerttunen.jpg",
+    "name": "Ruokokerttunen",
+    "audio": "audio/ruokokerttunen.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/ruokosirkkalintu.jpg",
+    "name": "Ruokosirkkalintu",
+    "audio": "audio/ruokosirkkalintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/rytikerttunen.jpg",
+    "name": "Rytikerttunen",
+    "audio": "audio/rytikerttunen.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/sirittaja.jpg",
+    "name": "Sirittäjä",
+    "audio": "audio/sirittaja.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/taigauunilintu.jpg",
+    "name": "Taigauunilintu",
+    "audio": "audio/taigauunilintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/tiltaltti.jpg",
+    "name": "Tiltaltti",
+    "audio": "audio/tiltaltti.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/viirusirkkalintu.jpg",
+    "name": "Viirusirkkalintu",
+    "audio": "audio/viirusirkkalintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/viitakerttunen.jpg",
+    "name": "Viitakerttunen",
+    "audio": "audio/viitakerttunen.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/viitasirkkalintu.jpg",
+    "name": "Viitasirkkalintu",
+    "audio": "audio/viitasirkkalintu.mp3",
+    "category": "Kertut"
+  },
+  {
+    "image": "images/200px/isokihu.jpg",
+    "name": "Isokihu",
+    "audio": "audio/isokihu.mp3",
+    "category": "Kihut"
+  },
+  {
+    "image": "images/200px/merikihu.jpg",
+    "name": "Merikihu",
+    "audio": "audio/merikihu.mp3",
+    "category": "Kihut"
+  },
+  {
+    "image": "images/200px/tunturikihu.jpg",
+    "name": "Tunturikihu",
+    "audio": "audio/tunturikihu.mp3",
+    "category": "Kihut"
+  },
+  {
+    "image": "images/200px/tervapaasky.jpg",
+    "name": "Tervapääsky",
+    "audio": "audio/tervapaasky.mp3",
+    "category": "Kiitäjälinnut"
+  },
+  {
+    "image": "images/200px/kangaskiuru.jpg",
+    "name": "Kangaskiuru",
+    "audio": "audio/kangaskiuru.mp3",
+    "category": "Kiurut"
+  },
+  {
+    "image": "images/200px/kiuru.jpg",
+    "name": "Kiuru",
+    "audio": "audio/kiuru.mp3",
+    "category": "Kiurut"
+  },
+  {
+    "image": "images/200px/tunturikiuru.jpg",
+    "name": "Tunturikiuru",
+    "audio": "audio/tunturikiuru.mp3",
+    "category": "Kiurut"
+  },
+  {
+    "image": "images/200px/koskikara.jpg",
+    "name": "Koskikara",
+    "audio": "audio/koskikara.mp3",
+    "category": "Koskikarat"
+  },
+  {
+    "image": "images/200px/kottarainen.jpg",
+    "name": "Kottarainen",
+    "audio": "audio/kottarainen.mp3",
+    "category": "Kottaraiset"
+  },
+  {
+    "image": "images/200px/kuhankeittaja.jpg",
+    "name": "Kuhankeittäjä",
+    "audio": "audio/kuhankeittaja.mp3",
+    "category": "Kuhankeittäjät"
+  },
+  {
+    "image": "images/200px/amerikanjaakuikka.jpg",
+    "name": "Amerikanjääkuikka",
+    "audio": "audio/amerikanjaakuikka.mp3",
+    "category": "Kuikat"
+  },
+  {
+    "image": "images/200px/kuikka.jpg",
+    "name": "Kuikka",
+    "audio": "audio/kuikka.mp3",
+    "category": "Kuikat"
+  },
+  {
+    "image": "images/200px/kaakkuri.jpg",
+    "name": "Kaakkuri",
+    "audio": "audio/kaakkuri.mp3",
+    "category": "Kuikat"
+  },
+  {
+    "image": "images/200px/kalliokyyhky.jpg",
+    "name": "Kalliokyyhky",
+    "audio": "audio/kalliokyyhky.mp3",
+    "category": "Kyyhkyt"
+  },
+  {
+    "image": "images/200px/sepelkyyhky.jpg",
+    "name": "Sepelkyyhky",
+    "audio": "audio/sepelkyyhky.mp3",
+    "category": "Kyyhkyt"
+  },
+  {
+    "image": "images/200px/turkinkyyhky.jpg",
+    "name": "Turkinkyyhky",
+    "audio": "audio/turkinkyyhky.mp3",
+    "category": "Kyyhkyt"
+  },
+  {
+    "image": "images/200px/turturikyyhky.jpg",
+    "name": "Turturikyyhky",
+    "audio": "audio/turturikyyhky.mp3",
+    "category": "Kyyhkyt"
+  },
+  {
+    "image": "images/200px/uuttukyyhky.jpg",
+    "name": "Uuttukyyhky",
+    "audio": "audio/uuttukyyhky.mp3",
+    "category": "Kyyhkyt"
+  },
+  {
+    "image": "images/200px/kaki.jpg",
+    "name": "Käki",
+    "audio": "audio/kaki.mp3",
+    "category": "Käet"
+  },
+  {
+    "image": "images/200px/isolepinkainen.jpg",
+    "name": "Isolepinkäinen",
+    "audio": "audio/isolepinkainen.mp3",
+    "category": "Lepinkäiset"
+  },
+  {
+    "image": "images/200px/pikkulepinkainen.jpg",
+    "name": "Pikkulepinkäinen",
+    "audio": "audio/pikkulepinkainen.mp3",
+    "category": "Lepinkäiset"
+  },
+  {
+    "image": "images/200px/harmaalokki.jpg",
+    "name": "Harmaalokki",
+    "audio": "audio/harmaalokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/isolokki.jpg",
+    "name": "Isolokki",
+    "audio": "audio/isolokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/kalalokki.jpg",
+    "name": "Kalalokki",
+    "audio": "audio/kalalokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/merilokki.jpg",
+    "name": "Merilokki",
+    "audio": "audio/merilokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/naurulokki.jpg",
+    "name": "Naurulokki",
+    "audio": "audio/naurulokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/pikkukajava.jpg",
+    "name": "Pikkukajava",
+    "audio": "audio/pikkukajava.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/pikkulokki.jpg",
+    "name": "Pikkulokki",
+    "audio": "audio/pikkulokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/selkalokki.jpg",
+    "name": "Selkälokki",
+    "audio": "audio/selkalokki.mp3",
+    "category": "Lokit"
+  },
+  {
+    "image": "images/200px/pahkinanakkeli.jpg",
+    "name": "Pähkinänakkeli",
+    "audio": "audio/pahkinanakkeli.mp3",
+    "category": "Nakkelit"
+  },
+  {
+    "image": "images/200px/hemppo.jpg",
+    "name": "Hemppo",
+    "audio": "audio/hemppo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/isokapylintu.jpg",
+    "name": "Isokäpylintu",
+    "audio": "audio/isokapylintu.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/jarripeippo.jpg",
+    "name": "Järripeippo",
+    "audio": "audio/jarripeippo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/keltahemppo.jpg",
+    "name": "Keltahemppo",
+    "audio": "audio/keltahemppo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/kirjosiipikapylintu.jpg",
+    "name": "Kirjosiipikäpylintu",
+    "audio": "audio/kirjosiipikapylintu.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/nokkavarpunen.jpg",
+    "name": "Nokkavarpunen",
+    "audio": "audio/nokkavarpunen.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/peippo.jpg",
+    "name": "Peippo",
+    "audio": "audio/peippo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/pikkukapylintu.jpg",
+    "name": "Pikkukäpylintu",
+    "audio": "audio/pikkukapylintu.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/punatulku.jpg",
+    "name": "Punatulku",
+    "audio": "audio/punatulku.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/punavarpunen.jpg",
+    "name": "Punavarpunen",
+    "audio": "audio/punavarpunen.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/taviokuurna.jpg",
+    "name": "Taviokuurna",
+    "audio": "audio/taviokuurna.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/tikli.jpg",
+    "name": "Tikli",
+    "audio": "audio/tikli.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/tundraurpiainen.jpg",
+    "name": "Tundraurpiainen",
+    "audio": "audio/tundraurpiainen.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/urpiainen.jpg",
+    "name": "Urpiainen",
+    "audio": "audio/urpiainen.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/viherpeippo.jpg",
+    "name": "Viherpeippo",
+    "audio": "audio/viherpeippo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/vihervarpunen.jpg",
+    "name": "Vihervarpunen",
+    "audio": "audio/vihervarpunen.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/vuorihemppo.jpg",
+    "name": "Vuorihemppo",
+    "audio": "audio/vuorihemppo.mp3",
+    "category": "Peipot"
+  },
+  {
+    "image": "images/200px/ampuhaukka.jpg",
+    "name": "Ampuhaukka",
+    "audio": "audio/ampuhaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/hiirihaukka.jpg",
+    "name": "Hiirihaukka",
+    "audio": "audio/hiirihaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/haarahaukka.jpg",
+    "name": "Haarahaukka",
+    "audio": "audio/haarahaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/kanahaukka.jpg",
+    "name": "Kanahaukka",
+    "audio": "audio/kanahaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/mehilaishaukka.jpg",
+    "name": "Mehiläishaukka",
+    "audio": "audio/mehilaishaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/merikotka.jpg",
+    "name": "Merikotka",
+    "audio": "audio/merikotka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/muuttohaukka.jpg",
+    "name": "Muuttohaukka",
+    "audio": "audio/muuttohaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/maakotka.jpg",
+    "name": "Maakotka",
+    "audio": "audio/maakotka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/nuolihaukka.jpg",
+    "name": "Nuolihaukka",
+    "audio": "audio/nuolihaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/piekana.jpg",
+    "name": "Piekana",
+    "audio": "audio/piekana.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/punajalkahaukka.jpg",
+    "name": "Punajalkahaukka",
+    "audio": "audio/punajalkahaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/ruskosuohaukka.jpg",
+    "name": "Ruskosuohaukka",
+    "audio": "audio/ruskosuohaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/sinisuohaukka.jpg",
+    "name": "Sinisuohaukka",
+    "audio": "audio/sinisuohaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/saaksi.jpg",
+    "name": "Sääksi",
+    "audio": "audio/saaksi.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/tunturihaukka.jpg",
+    "name": "Tunturihaukka",
+    "audio": "audio/tunturihaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/tuulihaukka.jpg",
+    "name": "Tuulihaukka",
+    "audio": "audio/tuulihaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/varpushaukka.jpg",
+    "name": "Varpushaukka",
+    "audio": "audio/varpushaukka.mp3",
+    "category": "Petolinnut"
+  },
+  {
+    "image": "images/200px/peukaloinen.jpg",
+    "name": "Peukaloinen",
+    "audio": "audio/peukaloinen.mp3",
+    "category": "Peukaloiset"
+  },
+  {
+    "image": "images/200px/lapinsirkku.jpg",
+    "name": "Lapinsirkku",
+    "audio": "audio/lapinsirkku.mp3",
+    "category": "Preeriasirkut"
+  },
+  {
+    "image": "images/200px/pulmunen.jpg",
+    "name": "Pulmunen",
+    "audio": "audio/pulmunen.mp3",
+    "category": "Preeriasirkut"
+  },
+  {
+    "image": "images/200px/puukiipija.jpg",
+    "name": "Puukiipijä",
+    "audio": "audio/puukiipija.mp3",
+    "category": "Puukiipijät"
+  },
+  {
+    "image": "images/200px/haarapaasky.jpg",
+    "name": "Haarapääsky",
+    "audio": "audio/haarapaasky.mp3",
+    "category": "Pääskyt"
+  },
+  {
+    "image": "images/200px/raystaspaasky.jpg",
+    "name": "Räystäspääsky",
+    "audio": "audio/raystaspaasky.mp3",
+    "category": "Pääskyt"
+  },
+  {
+    "image": "images/200px/toermapaasky.jpg",
+    "name": "Törmäpääsky",
+    "audio": "audio/toermapaasky.mp3",
+    "category": "Pääskyt"
+  },
+  {
+    "image": "images/200px/helmipoelloe.jpg",
+    "name": "Helmipöllö",
+    "audio": "audio/helmipoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/hiiripoelloe.jpg",
+    "name": "Hiiripöllö",
+    "audio": "audio/hiiripoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/huuhkaja.jpg",
+    "name": "Huuhkaja",
+    "audio": "audio/huuhkaja.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/lapinpoelloe.jpg",
+    "name": "Lapinpöllö",
+    "audio": "audio/lapinpoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/lehtopoelloe.jpg",
+    "name": "Lehtopöllö",
+    "audio": "audio/lehtopoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/sarvipoelloe.jpg",
+    "name": "Sarvipöllö",
+    "audio": "audio/sarvipoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/suopoelloe.jpg",
+    "name": "Suopöllö",
+    "audio": "audio/suopoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/tunturipoelloe.jpg",
+    "name": "Tunturipöllö",
+    "audio": "audio/tunturipoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/varpuspoelloe.jpg",
+    "name": "Varpuspöllö",
+    "audio": "audio/varpuspoelloe.mp3",
+    "category": "Pöllölinnut"
+  },
+  {
+    "image": "images/200px/liejukana.jpg",
+    "name": "Liejukana",
+    "audio": "audio/liejukana.mp3",
+    "category": "Rantakanat"
+  },
+  {
+    "image": "images/200px/luhtakana.jpg",
+    "name": "Luhtakana",
+    "audio": "audio/luhtakana.mp3",
+    "category": "Rantakanat"
+  },
+  {
+    "image": "images/200px/nokikana.jpg",
+    "name": "Nokikana",
+    "audio": "audio/nokikana.mp3",
+    "category": "Rantakanat"
+  },
+  {
+    "image": "images/200px/pikkuhuitti.jpg",
+    "name": "Pikkuhuitti",
+    "audio": "audio/pikkuhuitti.mp3",
+    "category": "Rantakanat"
+  },
+  {
+    "image": "images/200px/ruisraakka.jpg",
+    "name": "Ruisrääkkä",
+    "audio": "audio/ruisraakka.mp3",
+    "category": "Rantakanat"
+  },
+  {
+    "image": "images/200px/etelansatakieli.jpg",
+    "name": "Etelänsatakieli",
+    "audio": "audio/etelansatakieli.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/kivitasku.jpg",
+    "name": "Kivitasku",
+    "audio": "audio/kivitasku.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/kulorastas.jpg",
+    "name": "Kulorastas",
+    "audio": "audio/kulorastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/laulurastas.jpg",
+    "name": "Laulurastas",
+    "audio": "audio/laulurastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/leppalintu.jpg",
+    "name": "Leppälintu",
+    "audio": "audio/leppalintu.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/mustaleppalintu.jpg",
+    "name": "Mustaleppälintu",
+    "audio": "audio/mustaleppalintu.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/mustarastas.jpg",
+    "name": "Mustarastas",
+    "audio": "audio/mustarastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/pensastasku.jpg",
+    "name": "Pensastasku",
+    "audio": "audio/pensastasku.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/punakylkirastas.jpg",
+    "name": "Punakylkirastas",
+    "audio": "audio/punakylkirastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/punarinta.jpg",
+    "name": "Punarinta",
+    "audio": "audio/punarinta.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/rakattirastas.jpg",
+    "name": "Räkättirastas",
+    "audio": "audio/rakattirastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/satakieli.jpg",
+    "name": "Satakieli",
+    "audio": "audio/satakieli.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/sepelrastas.jpg",
+    "name": "Sepelrastas",
+    "audio": "audio/sepelrastas.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/sinipyrstoe.jpg",
+    "name": "Sinipyrstö",
+    "audio": "audio/sinipyrstoe.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/sinirinta.jpg",
+    "name": "Sinirinta",
+    "audio": "audio/sinirinta.mp3",
+    "category": "Rastaat"
+  },
+  {
+    "image": "images/200px/etelankiisla.jpg",
+    "name": "Etelänkiisla",
+    "audio": "audio/etelankiisla.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/lunni.jpg",
+    "name": "Lunni",
+    "audio": "audio/lunni.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/pikkuruokki.jpg",
+    "name": "Pikkuruokki",
+    "audio": "audio/pikkuruokki.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/pohjankiisla.jpg",
+    "name": "Pohjankiisla",
+    "audio": "audio/pohjankiisla.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/riskila.jpg",
+    "name": "Riskilä",
+    "audio": "audio/riskila.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/ruokki.jpg",
+    "name": "Ruokki",
+    "audio": "audio/ruokki.mp3",
+    "category": "Ruokit"
+  },
+  {
+    "image": "images/200px/harmaasieppo.jpg",
+    "name": "Harmaasieppo",
+    "audio": "audio/harmaasieppo.mp3",
+    "category": "Siepot"
+  },
+  {
+    "image": "images/200px/kirjosieppo.jpg",
+    "name": "Kirjosieppo",
+    "audio": "audio/kirjosieppo.mp3",
+    "category": "Siepot"
+  },
+  {
+    "image": "images/200px/pikkusieppo.jpg",
+    "name": "Pikkusieppo",
+    "audio": "audio/pikkusieppo.mp3",
+    "category": "Siepot"
+  },
+  {
+    "image": "images/200px/sepelsieppo.jpg",
+    "name": "Sepelsieppo",
+    "audio": "audio/sepelsieppo.mp3",
+    "category": "Siepot"
+  },
+  {
+    "image": "images/200px/keltasirkku.jpg",
+    "name": "Keltasirkku",
+    "audio": "audio/keltasirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/kultasirkku.jpg",
+    "name": "Kultasirkku",
+    "audio": "audio/kultasirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/pajusirkku.jpg",
+    "name": "Pajusirkku",
+    "audio": "audio/pajusirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/peltosirkku.jpg",
+    "name": "Peltosirkku",
+    "audio": "audio/peltosirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/pikkusirkku.jpg",
+    "name": "Pikkusirkku",
+    "audio": "audio/pikkusirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/pohjansirkku.jpg",
+    "name": "Pohjansirkku",
+    "audio": "audio/pohjansirkku.mp3",
+    "category": "Sirkut"
+  },
+  {
+    "image": "images/200px/alli.jpg",
+    "name": "Alli",
+    "audio": "audio/alli.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/harmaasorsa.jpg",
+    "name": "Harmaasorsa",
+    "audio": "audio/harmaasorsa.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/heinatavi.jpg",
+    "name": "Heinätavi",
+    "audio": "audio/heinatavi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/haahka.jpg",
+    "name": "Haahka",
+    "audio": "audio/haahka.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/haapana.jpg",
+    "name": "Haapana",
+    "audio": "audio/haapana.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/isokoskelo.jpg",
+    "name": "Isokoskelo",
+    "audio": "audio/isokoskelo.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/jouhisorsa.jpg",
+    "name": "Jouhisorsa",
+    "audio": "audio/jouhisorsa.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/kanadanhanhi.jpg",
+    "name": "Kanadanhanhi",
+    "audio": "audio/kanadanhanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/kiljuhanhi.jpg",
+    "name": "Kiljuhanhi",
+    "audio": "audio/kiljuhanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/kyhmyjoutsen.jpg",
+    "name": "Kyhmyjoutsen",
+    "audio": "audio/kyhmyjoutsen.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/lapasorsa.jpg",
+    "name": "Lapasorsa",
+    "audio": "audio/lapasorsa.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/lapasotka.jpg",
+    "name": "Lapasotka",
+    "audio": "audio/lapasotka.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/laulujoutsen.jpg",
+    "name": "Laulujoutsen",
+    "audio": "audio/laulujoutsen.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/lyhytnokkahanhi.jpg",
+    "name": "Lyhytnokkahanhi",
+    "audio": "audio/lyhytnokkahanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/merihanhi.jpg",
+    "name": "Merihanhi",
+    "audio": "audio/merihanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/metsahanhi.jpg",
+    "name": "Metsähanhi",
+    "audio": "audio/metsahanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/mustalintu.jpg",
+    "name": "Mustalintu",
+    "audio": "audio/mustalintu.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/pikkujoutsen.jpg",
+    "name": "Pikkujoutsen",
+    "audio": "audio/pikkujoutsen.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/pilkkasiipi.jpg",
+    "name": "Pilkkasiipi",
+    "audio": "audio/pilkkasiipi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/punasotka.jpg",
+    "name": "Punasotka",
+    "audio": "audio/punasotka.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/ristisorsa.jpg",
+    "name": "Ristisorsa",
+    "audio": "audio/ristisorsa.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/sepelhanhi.jpg",
+    "name": "Sepelhanhi",
+    "audio": "audio/sepelhanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/sinisorsa.jpg",
+    "name": "Sinisorsa",
+    "audio": "audio/sinisorsa.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/tavi.jpg",
+    "name": "Tavi",
+    "audio": "audio/tavi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/telkka.jpg",
+    "name": "Telkkä",
+    "audio": "audio/telkka.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/tukkakoskelo.jpg",
+    "name": "Tukkakoskelo",
+    "audio": "audio/tukkakoskelo.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/tukkasotka.jpg",
+    "name": "Tukkasotka",
+    "audio": "audio/tukkasotka.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/tundrahanhi.jpg",
+    "name": "Tundrahanhi",
+    "audio": "audio/tundrahanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/uivelo.jpg",
+    "name": "Uivelo",
+    "audio": "audio/uivelo.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/valkoposkihanhi.jpg",
+    "name": "Valkoposkihanhi",
+    "audio": "audio/valkoposkihanhi.mp3",
+    "category": "Sorsalinnut"
+  },
+  {
+    "image": "images/200px/merimetso.jpg",
+    "name": "Merimetso",
+    "audio": "audio/merimetso.mp3",
+    "category": "Suula, Merimetso"
+  },
+  {
+    "image": "images/200px/suula.jpg",
+    "name": "Suula",
+    "audio": "audio/suula.mp3",
+    "category": "Suula, Merimetso"
+  },
+  {
+    "image": "images/200px/hoemoetiainen.jpg",
+    "name": "Hömötiainen",
+    "audio": "audio/hoemoetiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/kuusitiainen.jpg",
+    "name": "Kuusitiainen",
+    "audio": "audio/kuusitiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/lapintiainen.jpg",
+    "name": "Lapintiainen",
+    "audio": "audio/lapintiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/pyrstoetiainen.jpg",
+    "name": "Pyrstötiainen",
+    "audio": "audio/pyrstoetiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/sinitiainen.jpg",
+    "name": "Sinitiainen",
+    "audio": "audio/sinitiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/talitiainen.jpg",
+    "name": "Talitiainen",
+    "audio": "audio/talitiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/toeyhtoetiainen.jpg",
+    "name": "Töyhtötiainen",
+    "audio": "audio/toeyhtoetiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/viiksitimali.jpg",
+    "name": "Viiksitimali",
+    "audio": "audio/viiksitimali.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/viitatiainen.jpg",
+    "name": "Viitatiainen",
+    "audio": "audio/viitatiainen.mp3",
+    "category": "Tiaiset"
+  },
+  {
+    "image": "images/200px/kalatiira.jpg",
+    "name": "Kalatiira",
+    "audio": "audio/kalatiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/lapintiira.jpg",
+    "name": "Lapintiira",
+    "audio": "audio/lapintiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/mustatiira.jpg",
+    "name": "Mustatiira",
+    "audio": "audio/mustatiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/pikkutiira.jpg",
+    "name": "Pikkutiira",
+    "audio": "audio/pikkutiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/riuttatiira.jpg",
+    "name": "Riuttatiira",
+    "audio": "audio/riuttatiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/rayska.jpg",
+    "name": "Räyskä",
+    "audio": "audio/rayska.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/valkosiipitiira.jpg",
+    "name": "Valkosiipitiira",
+    "audio": "audio/valkosiipitiira.mp3",
+    "category": "Tiirat"
+  },
+  {
+    "image": "images/200px/harmaapaatikka.jpg",
+    "name": "Harmaapäätikka",
+    "audio": "audio/harmaapaatikka.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/kaenpiika.jpg",
+    "name": "Käenpiika",
+    "audio": "audio/kaenpiika.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/kapytikka.jpg",
+    "name": "Käpytikka",
+    "audio": "audio/kapytikka.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/palokarki.jpg",
+    "name": "Palokärki",
+    "audio": "audio/palokarki.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/pikkutikka.jpg",
+    "name": "Pikkutikka",
+    "audio": "audio/pikkutikka.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/vihertikka.jpg",
+    "name": "Vihertikka",
+    "audio": "audio/vihertikka.mp3",
+    "category": "Tikat"
+  },
+  {
+    "image": "images/200px/tilhi.jpg",
+    "name": "Tilhi",
+    "audio": "audio/tilhi.mp3",
+    "category": "Tilhet"
+  },
+  {
+    "image": "images/200px/harkalintu.jpg",
+    "name": "Härkälintu",
+    "audio": "audio/harkalintu.mp3",
+    "category": "Uikut"
+  },
+  {
+    "image": "images/200px/mustakaulauikku.jpg",
+    "name": "Mustakaulauikku",
+    "audio": "audio/mustakaulauikku.mp3",
+    "category": "Uikut"
+  },
+  {
+    "image": "images/200px/mustakurkku-uikku.jpg",
+    "name": "Mustakurkku-uikku",
+    "audio": "audio/mustakurkku-uikku.mp3",
+    "category": "Uikut"
+  },
+  {
+    "image": "images/200px/pikku-uikku.jpg",
+    "name": "Pikku-uikku",
+    "audio": "audio/pikku-uikku.mp3",
+    "category": "Uikut"
+  },
+  {
+    "image": "images/200px/silkkiuikku.jpg",
+    "name": "Silkkiuikku",
+    "audio": "audio/silkkiuikku.mp3",
+    "category": "Uikut"
+  },
+  {
+    "image": "images/200px/myrskylintu.jpg",
+    "name": "Myrskylintu",
+    "audio": "audio/myrskylintu.mp3",
+    "category": "Ulappalinnut"
+  },
+  {
+    "image": "images/200px/harakka.jpg",
+    "name": "Harakka",
+    "audio": "audio/harakka.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/korppi.jpg",
+    "name": "Korppi",
+    "audio": "audio/korppi.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/mustavaris.jpg",
+    "name": "Mustavaris",
+    "audio": "audio/mustavaris.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/nokivaris.jpg",
+    "name": "Nokivaris",
+    "audio": "audio/nokivaris.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/narhi.jpg",
+    "name": "Närhi",
+    "audio": "audio/narhi.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/naakka.jpg",
+    "name": "Naakka",
+    "audio": "audio/naakka.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/varis.jpg",
+    "name": "Varis",
+    "audio": "audio/varis.mp3",
+    "category": "Varikset"
+  },
+  {
+    "image": "images/200px/pikkuvarpunen.jpg",
+    "name": "Pikkuvarpunen",
+    "audio": "audio/pikkuvarpunen.mp3",
+    "category": "Varpuset"
+  },
+  {
+    "image": "images/200px/rautiainen.jpg",
+    "name": "Rautiainen",
+    "audio": "audio/rautiainen.mp3",
+    "category": "Varpuset"
+  },
+  {
+    "image": "images/200px/varpunen.jpg",
+    "name": "Varpunen",
+    "audio": "audio/varpunen.mp3",
+    "category": "Varpuset"
+  },
+  {
+    "image": "images/200px/keltavastarakki.jpg",
+    "name": "Keltavästäräkki",
+    "audio": "audio/keltavastarakki.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/lapinkirvinen.jpg",
+    "name": "Lapinkirvinen",
+    "audio": "audio/lapinkirvinen.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/metsakirvinen.jpg",
+    "name": "Metsäkirvinen",
+    "audio": "audio/metsakirvinen.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/niittykirvinen.jpg",
+    "name": "Niittykirvinen",
+    "audio": "audio/niittykirvinen.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/sitruunavastarakki.jpg",
+    "name": "Sitruunavästäräkki",
+    "audio": "audio/sitruunavastarakki.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/virtavastarakki.jpg",
+    "name": "Virtavästäräkki",
+    "audio": "audio/virtavastarakki.mp3",
+    "category": "Västäräkit"
+  },
+  {
+    "image": "images/200px/vastarakki.jpg",
+    "name": "Västäräkki",
+    "audio": "audio/vastarakki.mp3",
+    "category": "Västäräkit"
+  }
+]

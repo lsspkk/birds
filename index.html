@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Birds</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue/dist/vue.js"></script>
+        <script src="birds_json.js"></script>
+        <style>
+            .menu {
+                display: block; 
+                width: 30px; 
+                float: left;
+            }
+        .key {
+            display: block;
+            line-height: 30px;
+            font-size: 30px;
+            width: 30px;
+            text-align: center;
+            padding: 5px; 
+            box-shadow: 0 0 2px #ccc;
+        }
+        .key:hover, .playing {
+            box-shadow: 0 0 2px rgb(255, 81, 0),0 0 7px rgb(255, 81, 0), 0 0 2px #000;
+            z-index: 2;
+        }
+        .bird {
+            transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            height: 170px;
+            width: 200px;
+            display: flex;
+            position:relative;
+            background: #3a3;
+            background-size: cover;
+            background-position-x: center;
+        }
+        .birdname {
+            position:absolute;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            color: #ffffff;
+            text-shadow: 0 0 2px rgba(0,0,0,1);
+        }
+        .birds {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-left: 50px;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="app">
+            <div class="menu">
+            <div class="key" :key="'letter'+i" v-for="k,i in keys" @click="filterByLetter(k)">{{k}}</div>
+            </div>
+            <div class="birds">
+                <div :id="'bird'+i" class="bird" :key="'bird'+i" v-for="b,i in birdArray" @click="play(i)" :style="{backgroundImage: 'url('+b.image+')'}" />
+                    <div class="birdname">{{b.name}}</div>
+                    <audio :src="b.audio" :key="'audio'+i" :id="'audio'+i"></audio>
+                    
+                </div>
+            </div>
+
+        </div>
+
+        <script>
+            function hasStartLetter(birds, letter) {
+                var found = false
+                birds.forEach(b => {
+                    if( found ) 
+                        return
+                    if( b.name.toLowerCase().startsWith(letter) ) 
+                        found = true
+                })
+                return found
+            }
+            new Vue({
+                el: '#app',
+                data: {
+                    birdArray: birds,
+                    keys: [],
+                    audioElements: [],
+                    birdElements: [],
+                    letter: ''
+                },
+                created() {
+                    const letters= 'abcdefghijklmnopqrstuvxyzåäö'
+                    for( var i=0;i < letters.length; i++) {
+                        if( hasStartLetter(birds, letters.charAt(i)))
+                            this.keys.push(letters.charAt(i))
+                    }
+                    this.sort()
+                },
+                methods: {
+                    sort() {
+                        this.b.sort((a,b)=> (a.name > b.name)? 1: ((b.name > a.name)? -1 :0))
+                    },
+                    filterByLetter(letter) {
+                        if( this.letter == letter ) {
+                            this.birdArray = birds
+                            this.letter = ''
+                            this.sort()
+                            return
+                        }
+                        this.birdArray = birds.filter(b => b.name.toLowerCase().startsWith(letter))
+                        this.letter = letter                        
+                        this.sort()
+                    },
+                    play(index) {
+                        const audio = document.querySelector('#audio'+index)
+                        const bird = document.querySelector('#bird'+index)
+                        var alreadyPlayingIndex = -1
+                        this.audioElements.forEach((a,i) => {
+                            if( a.id == audio.id ) {
+                                alreadyPlayingIndex = i
+                                a.pause()
+                                this.birdElements[i].classList.remove('playing')
+                            }
+                        })
+                        if( alreadyPlayingIndex != -1) {
+                            this.birdElements.splice(alreadyPlayingIndex,1)
+                            this.audioElements.splice(alreadyPlayingIndex,1)
+                            return
+                        }
+
+                        audio.currentTime = 0
+                        audio.play()
+                        if( this.audioElements.length > 5 ) {
+                            var a = this.audioElements.shift()
+                            a.pause()
+                            var b = this.birdElements.shift()
+                            b.classList.remove('playing')
+                        }
+                        this.audioElements.push(audio)
+                        this.birdElements.push(bird)
+                        bird.classList.add('playing')
+
+                    }
+                }
+            })
+            </script>
+            
+        </body>
+</html>
